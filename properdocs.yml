@@ -3,9 +3,10 @@ site_url: https://fabTech.jumpfab.com
 site_author: Nick Anastasia
 site_description: >-
   An Open Source technical manual for operating a Fab Lab.
-repo_name: jumpfab/fabTechManual
-repo_url: https://github.com/jumpFab/fabTechManual.git
-edit_url: /edit/main/docs/
+repo_name: jumpFab/fabTechManual
+repo_url: https://github.com/jumpFab/fabTechManual
+edit_uri: edit/main/docs/
+
 
 copyright: Copyright &copy; 2026 JumpFab
 
