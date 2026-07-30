@@ -1,0 +1,4 @@
+[build]
+	command = "properdocs build"
+	publish = "site/"
+	environment = { PYTHON_VERSION = "3.12.3" }
