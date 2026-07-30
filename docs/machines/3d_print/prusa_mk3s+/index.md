@@ -1,4 +1,4 @@
-# Tool Name
+# Prusa Mk3S+
 
 > [!NOTE]
 > Customize the template as needed, contribute back to the template to improve it for future tools..
