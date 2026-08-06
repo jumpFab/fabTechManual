@@ -101,9 +101,9 @@ theme:
 
   language: en
   font: false
- # favicon: octicons/milestone-24
- # icon:
- #   logo: logo
+  favicon: assets/logo/favicon4.svg
+  icon:
+    logo: assets/logo/favicon4.svg
   admonition:
     git:
       icon: simple/git
