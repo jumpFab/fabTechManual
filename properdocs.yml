@@ -1,6 +1,6 @@
-site_name: JumpFab FabLab Technical Manual
+site_name: FabLab Technical Manual
 site_url: https://fabTech.jumpfab.com
-site_author: Nick Anastasia
+site_author: JumpFab
 site_description: >-
   An Open Source technical manual for operating a Fab Lab.
 repo_name: jumpFab/fabTechManual
@@ -23,13 +23,24 @@ extra:
 
 #use_directory_urls: false
 #exclude_docs: |
+#   template/
 #  archives/
 #  /drafts/
 # not_in_nav: |
+#   template/
 #   /tutorials/**/*.md
 
 #nav:
 #  - Home: index.md
+#  - Processes:
+#    - Additive: additive/index.md
+#    - Milling: milling/index.md
+#    - Laser: laser/index.md
+#    - Cutting: cutting/index.md
+#    - Assembly: assembly/index.md
+#    - Formative: formative/index.md
+#  - Software:
+#  - About:
 #  - Get started:
 #    - Differences: differences.md
 #    - Installation: installation.md
@@ -58,7 +69,7 @@ theme:
     - content.footnote.tooltips
     - content.tooltips
 
-    - navigation.tabs
+    #- navigation.tabs
     # - navigation.tabs.sticky
     # - navigation.top
     # - navigation.tracking
@@ -101,9 +112,8 @@ theme:
 
   language: en
   font: false
-  favicon: assets/logo/favicon4.svg
-  icon:
-    logo: assets/logo/favicon4.svg
+  favicon: assets/logo/jumpFab.svg
+  logo: assets/logo/jumpFab.svg
   admonition:
     git:
       icon: simple/git

@@ -1,17 +1,13 @@
-# Welcome to ProperDocs
+# FabLab Technnical Manual by JumpFab
 
-For full documentation visit [properdocs.org](https://properdocs.org).
+Documenation for operation of tools and processes used in Fab Labs, Makerspaces, and Hackerspaces. 
 
-## Commands
+## Open Source
 
-* `properdocs new [dir-name]` - Create a new project.
-* `properdocs serve` - Start the live-reloading docs server.
-* `properdocs build` - Build the documentation site.
-* `properdocs -h` - Print help message and exit.
+This manual is open source! It is not garanteed to be free of errors or omissions. You can click the edit icon at the upper right to fork the project and submit updates or additions.
 
-## Project layout
+The inclusion of a tool in this manual is not an endorsment of that tool but recognition that it is common use in fabrication spaces where many users need reference material for occaionally used tools. The goal is to serve both as quick referece for operator check lists and detailed instructions for use and maintenance of these tools for users and maintainers.
 
-    properdocs.yml # The configuration file.
-    docs/
-        index.md   # The documentation homepage.
-        ...        # Other markdown pages, images and other files.
+## Need Help?
+
+Need help with your fabrication space? JumpFab is available to help with training, space setup, tool recomendations and more. Contact us!
