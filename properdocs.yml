@@ -75,12 +75,15 @@ theme:
     # - navigation.tracking
     # - navigation.expand
     # - navigation.indexes
+    #- navigation.path
     # - navigation.instant
     # - navigation.instant.prefetch
     # - navigation.instant.progress
     # - navigation.prune
-    - navigation.sections
+    #- navigation.sections
     - navigation.footer
+    - navigation.indexes
+    - navigation.path
 
     - search.highlight
     - search.share
