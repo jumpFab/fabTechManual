@@ -27,7 +27,7 @@ extra:
 #  archives/
 #  /drafts/
 # not_in_nav: |
-#   template/
+#   template/**/*.md
 #   /tutorials/**/*.md
 
 #nav:
@@ -69,21 +69,17 @@ theme:
     - content.footnote.tooltips
     - content.tooltips
 
-    #- navigation.tabs
     # - navigation.tabs.sticky
-    # - navigation.top
-    # - navigation.tracking
     # - navigation.expand
-    # - navigation.indexes
-    #- navigation.path
     # - navigation.instant
     # - navigation.instant.prefetch
     # - navigation.instant.progress
     # - navigation.prune
-    #- navigation.sections
     - navigation.footer
     - navigation.indexes
     - navigation.path
+    - navigation.top
+    - navigation.tracking
 
     - search.highlight
     - search.share
