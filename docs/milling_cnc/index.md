@@ -20,7 +20,7 @@ Milling is the cornerstone of high-precision engineering, allowing for the creat
 | **End Mill** | A type of industrial cutting bit used in milling applications. |
 | **Workholding** | Any device (like a vise or clamps) used to keep the material stationary during cutting. |
 
-[Link to full glossary](../../glossary.md#milling)
+<!-- [Link to full glossary](../../glossary.md#milling) -->
 
 ---
 
